@@ -24,3 +24,5 @@ Then you are free to copy and redistribute the material in its entirety for use 
 3D violin - VishnuR
 ComPlnWorkbench - LondonRook
 MinePlat set - LondonRook
+HlaSewer set - MwGek
+HlaSewer tall set - Shivatheo
