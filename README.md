@@ -30,3 +30,4 @@ Wabbajack model - Greatness7
 Wabbajack texture - alesthewoodcarver
 Axiom Particles - Kurp
 Daedric Tower - Remiros
+Spiral rocks - Lougian
