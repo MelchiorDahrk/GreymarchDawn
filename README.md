@@ -33,3 +33,4 @@ Daedric Tower - Remiros
 Spiral rocks - Lougian
 WHO Assets - Heinrich
 Booksets - Mika
+Crystal Golem - KaidaStudios
