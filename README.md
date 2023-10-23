@@ -34,3 +34,4 @@ Spiral rocks - Lougian
 WHO Assets - Heinrich
 Booksets - Mika
 Crystal Golem - KaidaStudios
+Abstract shapes - Sonic Art, ShikaPinku, Wilsonart, mehtikruton, ZW Multimedia, popsykat, kabeltelevizio
