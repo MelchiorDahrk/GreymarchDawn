@@ -39,3 +39,4 @@ Low Poly Tree - Mount 3D
 Axiom Teleport sound - qubodup
 Codex Sound Effect - artisticdude
 Cypress tree - Archeopterix
+Artist Figurine - Runspect
