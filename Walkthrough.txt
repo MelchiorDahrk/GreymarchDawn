@@ -152,8 +152,11 @@ Quest 3: Find The Missing Guardian
 Side Quests - Thieves Guild
 ---------------------------
 
+To begin Thieves Guild quests, you must have met the Keeper in the Monastery of Order.
+
 Quest 1: Retrieve the dead drop from Inanius Mine
     Starting the quest:
+	Must be Thieves Guild Rank 1.
         Read note "Job Posting - Lost Item" on the notice board in the Pit.
 
     Speak to the Pit's bartender for more information.
@@ -163,6 +166,7 @@ Quest 1: Retrieve the dead drop from Inanius Mine
 Quest 2: Retrieve the Gem of Greedbane
 
     Starting the quest:
+	Must be Thieves Guild Rank 3.
         Read note "Job Posting - Gem of Greedbane" on the notice board in the Pit.
 
     Speak to the Pit's bartender for more information.
@@ -174,6 +178,7 @@ Quest 2: Retrieve the Gem of Greedbane
 Quest 3: Retrieve a Turquoise of Lies
 
     Starting the quest:
+	Must be Thieves Guild Rank 4.
         Read note "Job Posting - Minerals Wanted" on the notice board in the Pit.
 
     Speak to the Pit's bartender for more information.
