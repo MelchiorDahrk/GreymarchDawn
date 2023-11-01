@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.0.0
+## Version 1.0.1
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -78,3 +78,7 @@ Codex Sound Effect - artisticdude
 Cypress tree - Archeopterix
 Artist Figurine - Runspect
 Fashionwind Goggles - RuffinVangarr
+
+### Changelog
+1.0.0 - Initial Release
+1.0.1 - Fixed floaters. Added missing painting mesh.
