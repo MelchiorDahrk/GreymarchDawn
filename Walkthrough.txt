@@ -10,17 +10,9 @@ SPOILERS
 
 SPOILERS
 
-SPOILERS
-
-SPOILERS
-
-SPOILERS
-
-SPOILERS
-
-SPOILERS
-
-SPOILERS
+----------
+Main Quest
+----------
 
 Quest 1: An Unbreakable Lock
 
@@ -60,6 +52,7 @@ Quest 4: A Guilty Conscience
     WARNING: If you help Lucien escape before speaking to Gilles, Gilles dies in the caverns.
 
     Finding Gilles:
+
         Gilles Durand is found in the Crystal Grotto fighting spiders. Help him, and he will confess to past wrongdoings involving Lucien.
         Following his confession, Gilles asks you to kill him. You can fulfill his request or convince him to tell Lucien the truth.
 
@@ -69,6 +62,7 @@ Quest 4: A Guilty Conscience
             Return to Lucien. If you choose to tell Lucien the truth yourself, the quest ends prematurely. Otherwise, he asks you to help him escape. 
 
     Freeing Lucien:
+
         You must learn an incantation to reverse the "paradoxical enchantment" that binds Lucien.
         Speak to the Third Librarian in the tower's library. 
         Select the "paradoxical enchantment" topic and the choice "Your colleagues insult the Sleeping Lord with their small-mindedness" when prompted. The Third Librarian gives you the book "Arcane Enigmas," which contains the incantation. 
@@ -84,6 +78,7 @@ Quest 5: Brushstrokes of Chaos
         Lucien, Earomar, Talia, Lucien, and Gilles are also members of this faction. 
 
     Finding the Artist:
+
         Leave the monastery and return to the Crystal Grotto. 
         Head northwest and enter the Mycelium Spire. Turn right. Do not go down the path. Look for a shrine with the Artist's mark, a lotus flower, and a few levitation potions. 
         Levitate upwards to a ledge and the entrance to Bthumzchekar.
@@ -96,13 +91,16 @@ Quest 5: Brushstrokes of Chaos
     In the event that you previously deferred or denied the Artist, the Keeper provides an alternate path to complete the main quest.
 
     Entering the catacombs:
+
         No matter whether you take the Artist's or Keeper's path, you have to find the same Daedric artifact to progress the main quest. Andreas Tucca in the Pit directs you to the Suran Temple catacombs. 
         To enter the catacombs, you need to find the key located in the upper sewers' Hlaalu warehouse. 
         The warehouse is guarded by a Level 100 lock. You can use telekinesis to grab the warehouse key from a crate or access the warehouse from the upper floor where a grate has fallen through. 
         The entrance to the catacombs is a false wall located on the second floor of the upper sewers, adjacent to an abandoned storage room.
 
     Catacombs puzzle:
+
         Use stealth to avoid alerting the catacombs' caretakers. 
+        The lower tomb key is hidden behind a tattered Tribunal banner in a locked iron chest.
         To solve the catacombs' puzzle and access the hidden room, you need to find three items: a pomegranate, glass chisel, and a book entitled "The Words of Vivec."
         The pomegranate is found in the Almalexia tomb.
         The glass chisel is found in the Sotha Sil tomb. It is located up the middle shaft in an alcove decorated with a Tribunal banner. 
@@ -119,3 +117,70 @@ Quest 5: Heart of Order, Soul of Chaos
     The Artist is waiting for you by the vault entrance. 
     Enter the vault together and engage the Keeper in conversation. 
     Make a final choice and prepare to face the consequences. 
+
+-------------------
+Side Quests - Tower
+-------------------
+
+Quest 1: Investigate the Daedric Energies
+    Starting the quest:
+        Read note "Warning from First Librarian" on the notice board in front of the living quarters.
+
+    Speak to the First Librarian in the library for more information.
+    Daedric rift is located in Suran's upper sewers.
+    Eliminate Sheogorath cultists and return to First Librarian for a reward.
+
+Quest 2: Slay a Crystal Golem
+
+    Starting the quest:
+        Read note "Warning from Third Librarian" on the notice board in front of the living quarters.
+    
+    Speak to the Third Librarian in the library for more information.
+    Crystal golem is located in Mycelium Spire, to the northwest of the tower.
+    Eliminate crystal golem and return to Third Librarian for a reward.
+
+Quest 3: Find The Missing Guardian
+
+    Starting the quest:
+        Read note "Guardian Postings" on the notice board in front of the living quarters.
+
+    Speak to the First Guardian in the living quarters for more information.
+    Missing guardian is located in Bthumzchekar Pumping Station.
+    Recover armor and return to First Guardian for a reward.
+
+---------------------------
+Side Quests - Thieves Guild
+---------------------------
+
+Quest 1: Retrieve the dead drop from Inanius Mine
+    Starting the quest:
+        Read note "Job Posting - Lost Item" on the notice board in the Pit.
+
+    Speak to the Pit's bartender for more information.
+    Missing item is located on a high shelf in the Inanius Eggmine, just after the Upper Sewers entrance.
+    Return item to the Pit's bartender for a reward.
+
+Quest 2: Retrieve the Gem of Greedbane
+
+    Starting the quest:
+        Read note "Job Posting - Gem of Greedbane" on the notice board in the Pit.
+
+    Speak to the Pit's bartender for more information.
+    Key to access inner Marvayn Tomb is lying on a Tribunal altar.
+    True Gem of Greedbane is lying inside of a broken urn to the right of the altar in the treasure room.
+    Return item to the Pit's bartender for a reward.
+
+
+Quest 3: Retrieve a Turquoise of Lies
+
+    Starting the quest:
+        Read note "Job Posting - Minerals Wanted" on the notice board in the Pit.
+
+    Speak to the Pit's bartender for more information.
+    Turquoise of Lies is found in Bthumzchekar, Industrial Station. Ascend the catwalk to the second structure.
+    Return item to the Pit's bartender for a reward.
+
+
+
+
+
