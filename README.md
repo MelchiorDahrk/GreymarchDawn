@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.0.1
+## Version 1.0.4
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -82,3 +82,6 @@ Fashionwind Goggles - RuffinVangarr
 ### Changelog
 1.0.0 - Initial Release
 1.0.1 - Fixed floaters. Added missing painting mesh.
+1.0.2 - Finished flag added to Inanius TG quest, floating books in library grounded
+1.0.3 - Artist mark teleport script
+1.0.4 - Removed chair in Desele's basement which clipped with a door, hole in the ceiling of dwemer ruin filled in, added a sound activator to waterfall in Marvayn Tomb
