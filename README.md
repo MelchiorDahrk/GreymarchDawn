@@ -86,3 +86,4 @@ Fashionwind Goggles - RuffinVangarr
 1.0.3 - Artist mark teleport script
 1.0.4 - Removed chair in Desele's basement which clipped with a door, hole in the ceiling of dwemer ruin filled in, added a sound activator to waterfall in Marvayn Tomb
 1.0.5 - Fixed expression error in several scripts, Fixed collision issues in Upper Sewer, Fixed grate light placement
+1.0.6 - Added lights to windows in the tower, Fixed missing roof piece in tower, Fixed book placement in the library, Increased forcegreet range of a character, Raised wood overhang in Lower Sewers, Added path out of water in Upper Sewers, Improved sky box texture, Tweaked door script in tower, Fixed corrupted topic.
