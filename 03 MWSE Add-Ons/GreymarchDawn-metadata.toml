@@ -1,0 +1,30 @@
+[package]
+name = "Greymarch Dawn - Whispers of Jyggalag"
+description = "Plunge into an engaging prequel to the events of the TES4:Shivering Isles expansion as the world shivers with Whispers of Jyggalag. The familiar sights of sewers and Thieves Guild operatives quickly unravel as you find yourself caught between two opposing forces while traversing the deepest parts of Vvardenfell."
+homepage = "https://www.nexusmods.com/morrowind/mods/53679"
+authors = [
+	"Globemallow",
+	"Hurdrax Custos",
+	"Lord Zircon",
+	"Markond",
+	"Melchior Dahrk",
+]
+version = "1.0.7"
+
+[dependencies]
+assets = [ 
+	"GreymarchDawn.ESP",
+	"Icons/vv23",
+	"Meshes/vv23",
+	"Sound/vv23",
+	"Sound/Vo/vv23",
+	"Textures/vv23",
+]
+
+[dependencies.mods."OAAB_Data"]
+version = ">=2.2.2"
+url = "https://www.nexusmods.com/morrowind/mods/49042"
+
+[dependencies.mods."Tamriel_Data"]
+plugin = "Tamriel_Data.esm"
+url = "https://www.nexusmods.com/morrowind/mods/44537"

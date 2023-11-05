@@ -78,6 +78,7 @@ Codex Sound Effect - artisticdude
 Cypress tree - Archeopterix
 Artist Figurine - Runspect
 Fashionwind Goggles - RuffinVangarr
+Normal maps - Vegetto
 
 ### Changelog
 1.0.0 - Initial Release
