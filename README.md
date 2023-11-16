@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.1.0
+## Version 1.1.1
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -91,3 +91,4 @@ Normal maps - Vegetto
 1.0.7 - Added normal maps for OpenMW (thanks, Vegetto!), Added MWSE interop for Character Sound Overhaul, Added MWSE interop for Ashfall, Added mod metadata, Improved crystal golem visuals, Optimized textures with Ordenador
 1.0.8 - Suran tradehouse doorframe fix
 1.1.0 - Overhauled Marvayn Anvestral Tomb, Added new subterranean flower, Added subterranean "skylamp" variant, Added crystal spider, Quest and dialogue polish, Interior improvements to the Monastery of Order, Fixed typos, Fixed gaps to the void, Fixed error in Codex script, Fixed doormarkers dropping player in wrong spot in the Monastery of Order
+1.1.1 - Dialogue fixes, New designs for the final rewards, Fixed robe skinning issues
