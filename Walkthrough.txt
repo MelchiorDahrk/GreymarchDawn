@@ -148,6 +148,17 @@ Quest 3: Find The Missing Guardian
     Missing guardian is located in Bthumzchekar Pumping Station.
     Recover armor and return to First Guardian for a reward.
 
+Quest 4: Crystal-Clear Waters
+
+    Starting the quest:
+        Complete the "Opposites Attract" quest by helping Earomar, then talk to Tendil until a random greeting appears which will add a new topic "crystals are very sensitive".
+
+    Travel to "Bthumzchekar, Pumping Station".
+    Read the Dwemer book and add a barrel to the barrel filler machine by pressing the button on the side.
+    You need to turn all 3 valves in this cell within a certain timeframe or the barrel will overpressure and explode.
+    After successfully filling a barrel, press the button twice more to create a Barrel Centurion.
+    Escort the Barrel Centurion back to Tendil to complete the quest.
+
 ---------------------------
 Side Quests - Thieves Guild
 ---------------------------
