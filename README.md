@@ -85,15 +85,15 @@ Normal maps - Vegetto
 Added additional side quest after you complete the Opposites Attract quest
 Fixed floating urns and candles in catacombs
 Swapped all the sewers for ones the white suran patch can change
-Fixed that one bug in the whitesuran patch with the hatch missing a texture for only some people
-fixed sword doubling, had to add a new short dialogue and journal entry to fill the gap it made
+Fixed that one bug in the White Suran patch with the hatch missing a texture for only some people
+Fixed sword doubling, had to add a new short dialogue and journal entry to fill the gap it made
 Fixed a single typo
-Blacksquared and northmarkered the monastery so the minimap looks nicer
-Gave the guards alert100 so they can actually arrest, everyone else has 80 so they can report theft
+Black squared and northmarkered the monastery so the minimap looks nicer
+Gave the tower guards alert100 so they can actually arrest, everyone else has 80 so they can report theft
 Marked a lot of monastery items owned
-Added a way to finish the TG portion of the main quest after the vault if you miss the dialogue opportunity first time around
+Added a way to finish the TG portion of the main quest after the vault if you miss the dialogue opportunity the first time around
 Made the catacomb key ping on detect key spells
-Fixed a really skew section of wall near the storeroom
+Fixed a really skewed section of wall near the storeroom
 Neatened up the water feature in the lower sewer to fix a gap
 Added a collision cube to the pomegranate planter because one person somehow got stuck in there
 
