@@ -79,6 +79,7 @@ Cypress tree - Archeopterix
 Artist Figurine - Runspect
 Fashionwind Goggles - RuffinVangarr
 Normal maps - Vegetto
+Script fixes - Abot
 
 ### Changelog
 1.2.0

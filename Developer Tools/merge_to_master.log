@@ -1,44 +1,68 @@
 Merging plugins...
-Copying object to master: ACTI vv23_Furn_DwrvButtonPump
-Copying object to master: CREA vv23_Dwe_SpiderBrrlDead
-Copying object to master: SCPT vv23_waterexplosion_s
-Copying object to master: SCPT vv23_SpiderBrrlUni_s
-Copying object to master: GLOB vv23_BarrelValve
-Copying object to master: SCPT vv23_barrelFiller_s
-Copying object to master: ACTI vv23_DwrvBarrelStop
-Copying object to master: SCPT vv23_SpiderBrrlFull_s
-Copying object to master: ACTI vv23_Act_BarrelFiller
-Copying object to master: SCPT vv23_DwrvCrankValve_s
-Copying object to master: CREA vv23_Dwe_SpiderBrrlUni
-Merging object to master: CELL Bthumzchekar, Pumping Station
-Copying object to master: SCPT vv23_DwrvBarrelStop_s
-Copying object to master: MISC vv23_Misc_DwrvBarrelCentUni
-Copying object to master: ACTI vv23_fx_waterexplosion
-Copying object to master: PGRD Monastery of Order, Crystallography Lab (0, 0)
-Copying object to master: ACTI vv23_Furn_DwrvCrankValve
-Copying object to master: BOOK vv23_bk_DwrvPump
-Copying object to master: GLOB vv23_BarrelState
-Merging object to master: PGRD Bthumzchekar, Pumping Station (0, 0)
-Copying object to master: SCPT vv23_DwrvButtonPump_s
-Copying object to master: SCPT vv23_BkDwrvPump
-Merging object to master: CELL Monastery of Order, Crystallography Lab
-Copying object to master: CREA vv23_Dwe_SpiderBrrlFull
-Copying object to master: MISC vv23_Misc_DwrvWrench
-Copying object to master: vv23_dwrvbarrel
-Copying object to master: crystals are very sensitive
-Merging object to master: greeting 1
-Removed duplicate reference: 'vv23_In_JygDais' at [3856.0, 4112.0, 15808.0] from cell 'Monastery of Order, Crystallography Lab'
-Removed duplicate reference: 'vv23_tendil' at [3793.711, 4344.044, 15807.243] from cell 'Monastery of Order, Crystallography Lab'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_n' at [4144.0, 3008.0, 320.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_n' at [3728.0005, 4256.0, 320.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_n' at [4240.0, 4256.0, 320.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvRoomWallCorn' at [4624.0, 3984.0002, -96.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_t_cap' at [4112.0, 4256.0, 320.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_t_cap' at [4304.0, 4256.0, 320.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_t_cap' at [4368.0, 2944.0, 320.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvRoomWallSide' at [4048.0, 4176.0, 160.0] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_l' at [4624.0015, 2944.001, 320.00006] from cell 'Bthumzchekar, Pumping Station'
-Removed duplicate reference: 'AB_In_DwrvPipeFit_l' at [3856.0005, 4256.0, 320.0] from cell 'Bthumzchekar, Pumping Station'
+Merging object to master: SCPT vv23_SoundAxiomGears_s
+Merging object to master: SCPT vv23_jygDoorSmall_s
+Merging object to master: SCPT VV23_stabbajackfloat_s
+Merging object to master: SCPT VV23_ArmourGuardDead
+Merging object to master: SCPT vv23_hauntedbooksounds
+Merging object to master: SCPT vv23_Trickwall3_s
+Merging object to master: SCPT vv23_VaultDoor_s
+Merging object to master: SCPT VV23_GuardNotice
+Merging object to master: SCPT vv23_coinDwrv100_s
+Merging object to master: SCPT VV23_BoardNotice_ILLU
+Merging object to master: SCPT VV23_KeeperTeleport
+Merging object to master: SCPT VV23_VaultCombat
+Merging object to master: SCPT vv23_SpiderScript
+Merging object to master: SCPT VV23_NotArcheologistOther
+Merging object to master: SCPT VV23_BoardNotice_Inan
+Merging object to master: SCPT VV23_artifactspin
+Merging object to master: SCPT VV23_warpexit
+Merging object to master: SCPT vv23_coinDwrv005_s
+Merging object to master: SCPT VV23_floorwarpdown
+Merging object to master: SCPT vv23_VaultDoor_s_02
+Merging object to master: SCPT VV23_CodexPlaceholder
+Merging object to master: SCPT VV23_towerupperlock
+Merging object to master: SCPT VV23_RopeClimb
+Merging object to master: SCPT VV23_IlluOn
+Merging object to master: SCPT VV23_CatacombGhostAttack
+Merging object to master: SCPT VV23_pitfighter02_s
+Merging object to master: SCPT VV23_greedbanetreasurecursed
+Merging object to master: SCPT VV23_ArtistTeleport
+Merging object to master: SCPT VV23_IlluOff
+Merging object to master: SCPT vv23_VaultDoorExit_s
+Merging object to master: SCPT vv23_Codex_s
+Merging object to master: SCPT vv23_GillesScript
+Merging object to master: SCPT VV23_KeeperTeleport_2
+Merging object to master: SCPT VV23_pitfighter01_s
+Merging object to master: SCPT VV23_BoardNotice_TURQ
+Merging object to master: SCPT VV23_AristTeleportVault
+Merging object to master: SCPT VV23_TGBook
+Merging object to master: SCPT VV23_RiftNotice
+Merging object to master: SCPT vv23_CatacombTrickwall1_s
+Merging object to master: SCPT VV23_OrderGreeting
+Merging object to master: SCPT VV23_floorwarpexitdown
+Merging object to master: SCPT vv23_GillesCombat
+Merging object to master: SCPT vv23_floorwarpup
+Merging object to master: SCPT vv23_sheoriftsounds
+Merging object to master: SCPT vv23_Trickwall1_s
+Merging object to master: SCPT vv23_Trickwall2_s
+Merging object to master: SCPT VV23_MoveLucien
+Merging object to master: SCPT VV23_quieterhauntedsound
+Merging object to master: SCPT vv23_CaretakerControl_s
+Merging object to master: SCPT VV23_GolemNotice
+Merging object to master: SCPT VV23_lightsoff
+Merging object to master: SCPT VV23_NotArcheologist01
+Merging object to master: SCPT VV23_StoreroomScript
+Merging object to master: SCPT vv23_coinDwrv025_s
+Merging object to master: SCPT VV23_GolemEnabler
+Merging object to master: SCPT vv23_RiftSheoOpen_s
+Merging object to master: SCPT VV23_ChaosGreeting
+Merging object to master: SCPT VV23_floorwarpdowntombstair
+Copying object to master: SCPT VV23_RiddleDoorScr
+Merging object to master: SCPT VV23_stabbajacksound
+Merging object to master: SCPT vv23_coinDwrv010_s
+Merging object to master: SCPT vv23_KeeperMark_s
+Merging object to master: SCPT VV23_KeeperScript
+Merging object to master: SCPT VV23_GreedBaneGem
 Creating backup...
 Saving results...
 Finished!
