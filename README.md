@@ -81,29 +81,52 @@ Fashionwind Goggles - RuffinVangarr
 Normal maps - Vegetto
 
 ### Changelog
-1.0.0
-Initial Release
+1.2.0
+Added additional side quest after you complete the Opposites Attract quest
+Fixed floating urns and candles in catacombs
+Swapped all the sewers for ones the white suran patch can change
+Fixed that one bug in the whitesuran patch with the hatch missing a texture for only some people
+fixed sword doubling, had to add a new short dialogue and journal entry to fill the gap it made
+Fixed a single typo
+Blacksquared and northmarkered the monastery so the minimap looks nicer
+Gave the guards alert100 so they can actually arrest, everyone else has 80 so they can report theft
+Marked a lot of monastery items owned
+Added a way to finish the TG portion of the main quest after the vault if you miss the dialogue opportunity first time around
+Made the catacomb key ping on detect key spells
+Fixed a really skew section of wall near the storeroom
+Neatened up the water feature in the lower sewer to fix a gap
+Added a collision cube to the pomegranate planter because one person somehow got stuck in there
 
-1.0.1
-Fixed floaters
-Added missing painting mesh.
+1.1.2
+Fixed collision issues in The Pit
 
-1.0.2
-Finished flag added to Inanius TG quest
-floating books in library grounded
+1.1.1
+Dialogue fixes
+New designs for the final rewards
+Fixed robe skinning issues
 
-1.0.3
-Artist mark teleport script
+1.1.0
+Overhauled Marvayn Anvestral Tomb
+Added new subterranean flower
+Added subterranean "skylamp" variant
+Added crystal spider
+Quest and dialogue polish
+Interior improvements to the Monastery of Order
+Fixed typos
+Fixed gaps to the void
+Fixed error in Codex script
+Fixed doormarkers dropping player in wrong spot in the Monastery of Order
 
-1.0.4
-Removed chair in Desele's basement which clipped with a door
-hole in the ceiling of dwemer ruin filled in
-added a sound activator to waterfall in Marvayn Tomb
+1.0.8
+Suran tradehouse doorframe fix
 
-1.0.5
-Fixed expression error in several scripts
-Fixed collision issues in Upper Sewer
-Fixed grate light placement
+1.0.7
+Added normal maps for OpenMW (thanks, Vegetto!)
+Added MWSE interop for Character Sound Overhaul
+Added MWSE interop for Ashfall
+Added mod metadata
+Improved crystal golem visuals
+Optimized textures with Ordenador
 
 1.0.6
 Added lights to windows in the tower
@@ -122,49 +145,45 @@ Made light rays more visible on geode braziers
 Fixed floaters in ancestral tomb
 Added greebling to coin piles
 
-1.0.7
-Added normal maps for OpenMW (thanks, Vegetto!)
-Added MWSE interop for Character Sound Overhaul
-Added MWSE interop for Ashfall
-Added mod metadata
-Improved crystal golem visuals
-Optimized textures with Ordenador
+1.0.5
+Fixed expression error in several scripts
+Fixed collision issues in Upper Sewer
+Fixed grate light placement
 
-1.0.8
-Suran tradehouse doorframe fix
+1.0.4
+Removed chair in Desele's basement which clipped with a door
+hole in the ceiling of dwemer ruin filled in
+added a sound activator to waterfall in Marvayn Tomb
 
-1.1.0
-Overhauled Marvayn Anvestral Tomb
-Added new subterranean flower
-Added subterranean "skylamp" variant
-Added crystal spider
-Quest and dialogue polish
-Interior improvements to the Monastery of Order
-Fixed typos
-Fixed gaps to the void
-Fixed error in Codex script
-Fixed doormarkers dropping player in wrong spot in the Monastery of Order
+1.0.3
+Artist mark teleport script
 
-1.1.1
-Dialogue fixes
-New designs for the final rewards
-Fixed robe skinning issues
+1.0.2
+Finished flag added to Inanius TG quest
+floating books in library grounded
 
-1.1.2
-Fixed collision issues in The Pit
+1.0.1
+Fixed floaters
+Added missing painting mesh.
 
-1.2.0
-Added additional side quest after you complete the Opposites Attract quest
-Fixed floating urns and candles in catacombs
-Swapped all the sewers for ones the white suran patch can change
-Fixed that one bug in the whitesuran patch with the hatch missing a texture for only some people
-fixed sword doubling, had to add a new short dialogue and journal entry to fill the gap it made
-Fixed a single typo
-Blacksquared and northmarkered the monastery so the minimap looks nicer
-Gave the guards alert100 so they can actually arrest, everyone else has 80 so they can report theft
-Marked a lot of monastery items owned
-Added a way to finish the TG portion of the main quest after the vault if you miss the dialogue opportunity first time around
-Made the catacomb key ping on detect key spells
-Fixed a really skew section of wall near the storeroom
-Neatened up the water feature in the lower sewer to fix a gap
-Added a collision cube to the pomegranate planter because one person somehow got stuck in there
+1.0.0
+Initial Release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
