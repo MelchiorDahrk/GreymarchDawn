@@ -1,11 +1,12 @@
 Merging plugins...
-Merging object to master: CELL Monastery of Order, Second Librarian's Quarters
-Merging object to master: CELL Monastery of Order
-Merging object to master: CELL Monastery of Order, Library
-Merging object to master: CELL Monastery of Order, Keeper's Study
-Merging object to master: CELL Monastery of Order, First Librarian's Quarters
-Merging object to master: CELL Monastery of Order, Keeper's Quarters
-Merging object to master: CELL Monastery of Order, Third Librarian's Quarters
+Copying object to master: MISC VV23_GuardhouseKey
+Copying object to master: STAT VV23_In_HlaSewerRoomRail
+Copying object to master: STAT VV23_X_Grate_01
+Merging object to master: CELL Suran Sewers, Upper
+Copying object to master: STAT VV23_I_Sewer_Grate_02
+Merging object to master: CELL Suran, Suran Temple Catacombs
+Merging object to master: CELL Suran Sewers, Lower
+Copying object to master: STAT VV23_In_HlaSewerRoomWallAlc40
 Creating backup...
 Saving results...
 Finished!
