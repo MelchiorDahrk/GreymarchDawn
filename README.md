@@ -84,6 +84,7 @@ Script fixes - Abot
 ### Changelog
 1.2.0
 Added additional side quest after you complete the Opposites Attract quest
+Cleaned up all scripts (thanks, Abot!)
 Fixed floating urns and candles in catacombs
 Swapped all the sewers for ones the white suran patch can change
 Fixed that one bug in the White Suran patch with the hatch missing a texture for only some people
@@ -97,6 +98,10 @@ Made the catacomb key ping on detect key spells
 Fixed a really skewed section of wall near the storeroom
 Neatened up the water feature in the lower sewer to fix a gap
 Added a collision cube to the pomegranate planter because one person somehow got stuck in there
+Replaced chalk with OAAB_Data equivalent
+You can now die if you fall off of the vault entrance bridge
+Fixed UV on amulet and removed the now unused texture which was causing an error due to not being included in the HD textures
+Added texture effect to top wall screen model for consistency with the bottom
 
 1.1.2
 Fixed collision issues in The Pit
