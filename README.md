@@ -102,6 +102,11 @@ Replaced chalk with OAAB_Data equivalent
 You can now die if you fall off of the vault entrance bridge
 Fixed UV on amulet and removed the now unused texture which was causing an error due to not being included in the HD textures
 Added texture effect to top wall screen model for consistency with the bottom
+Moved a priest that was too close to a wall
+Removed a guard from near the vault because the artist standing there during the last quest and not being apprehended was a bit odd
+Added a rock to deep cavern to stop players getting stuck if they fell in
+Moved a stalagmite that was just in the right place to block your way
+Added a key to the upper sewer guard room
 
 1.1.2
 Fixed collision issues in The Pit
