@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.2.0
+## Version 1.2.2
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -82,6 +82,12 @@ Normal maps - Vegetto
 Script fixes - Abot
 
 ### Changelog
+1.2.2
+Updated fomod to install the White Suran 2 patch properly
+
+1.2.1
+Added in the White Suran meshes that were not included in 1.2.0
+
 1.2.0
 Added additional side quest after you complete the Opposites Attract quest
 Cleaned up all scripts (thanks, Abot!)
