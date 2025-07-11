@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.2.2
+## Version 1.2.3
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -82,6 +82,13 @@ Normal maps - Vegetto
 Script fixes - Abot
 
 ### Changelog
+1.2.3
+Inanius note script fix
+Fixed dialogue conflict with Redoran Stronghold quest
+Removed some left over items in the void in a few cells
+Improved the warping script
+Patched up a hole into the void
+
 1.2.2
 Updated fomod to install the White Suran 2 patch properly
 
