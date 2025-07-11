@@ -86,6 +86,7 @@ Script fixes - Abot
 Inanius note script fix
 Fixed dialogue conflict with Redoran Stronghold quest
 Removed some left over items in the void in a few cells
+Improved the warping script
 Patched up a hole into the void
 
 1.2.2
