@@ -88,6 +88,9 @@ Fixed dialogue conflict with Redoran Stronghold quest
 Removed some left over items in the void in a few cells
 Improved the warping script
 Patched up a hole into the void
+Fixed arch which blocked tall characters
+Fixed floating rock in Bthumzchekar
+Assigned ownership in crystalography cell
 
 1.2.2
 Updated fomod to install the White Suran 2 patch properly
