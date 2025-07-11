@@ -91,6 +91,7 @@ Patched up a hole into the void
 Fixed arch which blocked tall characters
 Fixed floating rock in Bthumzchekar
 Assigned ownership in crystalography cell
+Fixed broken collision on a WS2 sewer mesh
 
 1.2.2
 Updated fomod to install the White Suran 2 patch properly
