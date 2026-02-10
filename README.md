@@ -82,6 +82,10 @@ Normal maps - Vegetto
 Script fixes - Abot
 
 ### Changelog
+1.2.4
+HD Icons Fixed
+Fixed jygHelm Id for consistency with rest of armor set
+
 1.2.3
 Inanius note script fix
 Fixed dialogue conflict with Redoran Stronghold quest
