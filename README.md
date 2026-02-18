@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.2.3
+## Version 1.2.4
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -80,6 +80,7 @@ Artist Figurine - Runspect
 Fashionwind Goggles - RuffinVangarr
 Normal maps - Vegetto
 Script fixes - Abot
+HD icon fixes - sophiasunshine
 
 ### Changelog
 1.2.4

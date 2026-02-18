@@ -9,7 +9,7 @@ authors = [
 	"Markond",
 	"Melchior Dahrk",
 ]
-version = "1.2.3"
+version = "1.2.4"
 
 [dependencies]
 assets = [ 
