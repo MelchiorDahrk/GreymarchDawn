@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.2.4
+## Version 1.2.5
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -83,6 +83,9 @@ Script fixes - Abot
 HD icon fixes - sophiasunshine
 
 ### Changelog
+1.2.5
+Fixed broken plugin
+
 1.2.4
 HD Icons Fixed
 Fixed jygHelm Id for consistency with rest of armor set
