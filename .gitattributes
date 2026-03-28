@@ -5,5 +5,5 @@
 tes3cmd.exe export-ignore
 tes3cmd_convert_to_ESM.bat export-ignore
 tes3cmd_convert_to_ESP.bat export-ignore
-Developer Tools export-ignore
-Developer Tools/** export-ignore
+"Developer Tools" export-ignore
+"Developer Tools/**" export-ignore
