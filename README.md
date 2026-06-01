@@ -83,10 +83,19 @@ Script fixes - Abot
 HD icon fixes - sophiasunshine
 
 ### Changelog
-1.2.6
+1.2.7
 Removed object blocking barrel machine
 Made Crystal-Clear Waters quest start more reliably
 Fixed cut off dialogue in topic with Lucien
+Cleaned unnecessary files from the previous version
+
+1.2.6.1
+Added the new Note textures into the HD version of the mod
+
+1.2.6
+Updated Fomod to allow HD icons and normal maps to be selected at the same time
+Removed BC plants and some vines in Inanius eggmine and replaced them with Trama root and kwama viens
+Added some unique textures for the notes using Bounty posters Resource as a base
 
 1.2.5
 Fixed broken plugin
