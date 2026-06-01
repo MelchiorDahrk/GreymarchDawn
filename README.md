@@ -86,6 +86,7 @@ HD icon fixes - sophiasunshine
 1.2.6
 Removed object blocking barrel machine
 Made Crystal-Clear Waters quest start more reliably
+Fixed cut off dialogue in topic with Lucien
 
 1.2.5
 Fixed broken plugin
