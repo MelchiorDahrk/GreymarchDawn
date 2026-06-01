@@ -1,4 +1,4 @@
 @echo off
 
-tes3cmd esm "00 Core\\GreymarchDawn.esm"
+tes3cmd esm "00 Core\\GreymarchDawn.esp"
 PAUSE
