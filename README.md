@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.2.6
+## Version 1.2.7
 
 ### Veloth's Virtuosos team
 Globemallow
