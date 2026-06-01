@@ -151,7 +151,7 @@ Quest 3: Find The Missing Guardian
 Quest 4: Crystal-Clear Waters
 
     Starting the quest:
-        Complete the "Opposites Attract" quest by helping Earomar, then talk to Tendil until a random greeting appears which will add a new topic "crystals are very sensitive".
+        Complete the "Opposites Attract" quest by helping Earomar, then talk to Tendil which will add a new topic "crystals are very sensitive".
 
     Travel to "Bthumzchekar, Pumping Station".
     Read the Dwemer book and add a barrel to the barrel filler machine by pressing the button on the side.

@@ -1,6 +1,6 @@
 # MMM2023
 ## Greymarch Dawn - Whispers of Jyggalag
-## Version 1.2.5
+## Version 1.2.6
 
 ### Veloth's Virtuosos team
 Globemallow
@@ -83,6 +83,10 @@ Script fixes - Abot
 HD icon fixes - sophiasunshine
 
 ### Changelog
+1.2.6
+Removed object blocking barrel machine
+Made Crystal-Clear Waters quest start more reliably
+
 1.2.5
 Fixed broken plugin
 
