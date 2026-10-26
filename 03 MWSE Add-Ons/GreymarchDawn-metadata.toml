@@ -13,7 +13,7 @@ version = "1.2.7"
 
 [dependencies]
 assets = [ 
-	"GreymarchDawn.ESP",
+	"GreymarchDawn.esp",
 	"Icons/vv23",
 	"Meshes/vv23",
 	"Sound/vv23",

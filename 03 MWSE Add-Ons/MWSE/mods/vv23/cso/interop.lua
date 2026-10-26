@@ -7,9 +7,8 @@ Format for Mods:
 - Define your soundType so it's properly sorted, for instance 'soundType = land' to specify texture material type.
 --]]
 
-local function initialized()
-    local cso = include("Character Sound Overhaul.interop")
-    if cso == nil then return end
+local cso = include("Character Sound Overhaul.interop")
+if cso == nil then return end
     local soundData = {
         -- Land, Carpet:
         { id = "vv23\\f\\vv23_shelfshroomtop", category = cso.landTypes.carpet, soundType = "land" },
@@ -46,8 +45,8 @@ local function initialized()
 
         -- Land, Ice:
         { id = "vv23\\i\\vv23_jyg_arch_window_02", category = cso.landTypes.ice, soundType = "land" },
-        { id = "vv23\\i\\vv23_jyg_crystal_01", category = cso.landTypes.ice, soundType = "land" },
-        { id = "vv23\\i\\vv23_jyg_crystal_01_G", category = cso.landTypes.ice, soundType = "land" },
+        { id = "vv23\\t\\vv23_jyg_crystal_01", category = cso.landTypes.ice, soundType = "land" },
+        { id = "vv23\\t\\vv23_jyg_crystal_01_G", category = cso.landTypes.ice, soundType = "land" },
 
         -- Land, Metal:
         { id = "vv23\\i\\vv23_axiom_trim_01", category = cso.landTypes.metal, soundType = "land" },
@@ -68,7 +67,7 @@ local function initialized()
         { id = "vv23\\i\\vv23_jyg_arch_panels_01", category = cso.landTypes.stone, soundType = "land" },
         { id = "vv23\\i\\vv23_jyg_arch_relief_02", category = cso.landTypes.stone, soundType = "land" },
         { id = "vv23\\i\\vv23_jyg_arch_trim_01", category = cso.landTypes.stone, soundType = "land" },
-        { id = "vv23\\i\\vv23_cave_py_rocks_overlay", category = cso.landTypes.stone, soundType = "land" },
+        { id = "vv23\\t\\vv23_cave_py_rocks_overlay", category = cso.landTypes.stone, soundType = "land" },
         { id = "vv23\\u\\vv23_jyg_blackboard_square_01", category = cso.landTypes.stone, soundType = "land" },
         { id = "vv23\\u\\vv23_jyg_blackboard_square_02", category = cso.landTypes.stone, soundType = "land" },
         { id = "vv23\\u\\vv23_jyg_blackboard_square_03", category = cso.landTypes.stone, soundType = "land" },
@@ -137,9 +136,7 @@ local function initialized()
         -- Creatures
         -- { id = "oaab\\r\\dwspecter_f.nif", category = cso.specialTypes.ghost, soundType = "creature" },
 
-    }
-    for _, data in ipairs(soundData) do
-        cso.addSoundData(data.id, data.category, data.soundType)
-    end
+}
+for _, data in ipairs(soundData) do
+    cso.addSoundData(data.id, data.category, data.soundType)
 end
-event.register("initialized", initialized)
